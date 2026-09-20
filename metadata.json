@@ -1,0 +1,6 @@
+{
+  "name": "Estância Morro Grande",
+  "description": "Aplicativo do Hospital Estância Morro Grande para acompanhamento do tratamento do paciente, palestras, intercorrências, saldo e cantina, com acesso para psicólogos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
